@@ -12,12 +12,14 @@ table {
   text-align: center;
   margin: 30px auto;
   border-radius:30px;
+  border-width: 5px;
 }
 
 td {
-  width: 220px;
-  font-size: 150px;
+  width: 200px;
+  font-size: 130px;
   border-radius:30px;
+  border-width: 5px;
 }
 
 /* #bingo{
