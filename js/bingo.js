@@ -81,7 +81,7 @@ function stop(){
     }else if(c == 3){
       num.style.color = 'pink';
     }else if(c == 4){
-      num.style.color = 'black';
+      num.style.color = 'orange';
     }
 
     console.log("number.length:"+number.length);
