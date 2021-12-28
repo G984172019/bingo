@@ -4,17 +4,20 @@ body {
   background-color: #FFFF99;
 }
 input {
-  margin:10px auto;
-  font-size: 30px;
+  margin:50px 10px;
+  font-size: 90px;
+  border-radius:30px;
 }
 table {
   text-align: center;
-  margin: auto;
+  margin: 30px auto;
+  border-radius:30px;
 }
 
 td {
-  width: 120px;
-  font-size: 100px;
+  width: 220px;
+  font-size: 150px;
+  border-radius:30px;
 }
 
 /* #bingo{
