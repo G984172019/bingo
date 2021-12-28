@@ -72,7 +72,7 @@ function stop(){
     delete number[a];
     number = number.filter(Boolean);
     size = size - 1;
-    if(child == 0){
+    if(c == 0){
       num.style.color = 'blue';
     }else if(c == 1){
       num.style.color = 'red';
