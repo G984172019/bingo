@@ -36,6 +36,7 @@ function remain() {
 function start(){
   if(ok == 0){
     roulette = setInterval(function(){
+      dram.currentTime = 0.0 ;
       drum.play();
       a = Math.floor(Math.random()*size);
       num.textContent = number[a];
