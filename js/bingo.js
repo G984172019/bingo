@@ -38,6 +38,7 @@ function start(){
     roulette = setInterval(function(){
       dram.currentTime = 0.0 ;
       drum.play();
+      drum.loop = true;
       a = Math.floor(Math.random()*size);
       num.textContent = number[a];
       console.log("a:"+a);
